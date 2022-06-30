@@ -2,7 +2,7 @@ import UIKit
 import SwiftUI
 
 extension UIColor {
-    convenience init(hexcode: String) {
+    public convenience init(hexcode: String) {
         let scanner = Scanner(string: hexcode)
         var rgbValue: UInt64 = 0
         
@@ -18,7 +18,7 @@ extension UIColor {
 
 @available(iOS 13.0, *)
 extension Color {
-    init(hexcode: String) {
+    public init(hexcode: String) {
         let scanner = Scanner(string: hexcode)
         var rgbValue: UInt64 = 0
         
