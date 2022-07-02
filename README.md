@@ -6,12 +6,12 @@
 
 ## OverView
 <p align="center">
-<img width="307" alt="HomeView" src="https://user-images.githubusercontent.com/56182112/176992190-943513c6-27bd-4fac-8f3a-d2dba4fe7f3f.png"><img width="307" alt="DetailView" src="https://user-images.githubusercontent.com/56182112/176992199-c33e27b4-b6be-4d10-afbb-f21662d7cccb.png">
+<img width="307" alt="HomeView" src="https://user-images.githubusercontent.com/56182112/176992687-80aeaca6-f773-430c-ae2e-e92eff8d57ff.png"><img width="307" alt="DetailView" src="https://user-images.githubusercontent.com/56182112/176992684-452fc2b1-3c08-42e6-93d7-7315c412b4c2.png">
 </p>
 
 ### Supports
-* UIKit - iOS 9.0 or later
-* SwiftUI - iOS 13.0 or later
+* iOS 9.0 or later
+
 ## 사용예시
 
 ### UIKit
