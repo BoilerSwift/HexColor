@@ -1,6 +1,6 @@
 # HexColor
 
-`HexColor`는 색상을 hexcode로 사용하기 위해 만들어졌습니다.
+`HexColor`는 색상을 hexcode로 사용하기 위해 만들어졌습니다. <br>
 `HexColor`은 UIColor, Color에서 사용 가능합니다. <br>
 `HexColor`저장소의 ISSUE를 획인해주세요! 오픈소스에 기여할 수 있습니다
 
